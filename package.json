@@ -9,11 +9,11 @@
     "clone",
     "recursive"
   ],
-  "version": "4.3.1",
-  "homepage": "https://github.com/TehShrike/deepmerge",
+  "version": "4.3.1-proto-patch",
+  "homepage": "https://github.com/PatrikHysky/deepmerge",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TehShrike/deepmerge.git"
+    "url": "git://github.com/PatrikHysky/deepmerge.git"
   },
   "main": "index.js",
   "engines": {
